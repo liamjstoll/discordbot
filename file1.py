@@ -21,7 +21,7 @@ pton=si.get_live_price("pton")
 fb=si.get_live_price("fb")
 bynd=si.get_live_price("bynd")
 
-reddit = praw.Reddit(client_id = 'uIt4LCqPKaTdZw',client_secret = 'uFiS_dnsaLgCC1zSk09Xt6V3w4c',username = 'maniaclunatic',password='@Stoll1126',user_agent='liam')
+reddit = praw.Reddit(client_id = 'xxxxxx',client_secret = 'xxxx',username = 'xxxx',password='xxxx',user_agent='xxxx')
 
 wsb = reddit.subreddit('wallstreetbets')
 robinhood = reddit.subreddit('robinhood')
